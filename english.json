@@ -1,4 +1,5 @@
 {
+    "title_view_serverpage": "View Server #",
     "navbar_dashboard": "Dashboard",
     "navbar_orderservices": "Order Service",
     "navbar_loadbalance": "Load Balance",
